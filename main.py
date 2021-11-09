@@ -1,5 +1,4 @@
-from cards import Card
+from cards import *
 
-testCard = Card()
-
-testCard.display()
+testDeck = Deck()
+testDeck.display()
